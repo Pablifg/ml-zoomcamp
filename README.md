@@ -5,7 +5,7 @@
 - [x] HW1: Introduction to ML
 - [x] HW2: Machine Learning for Regression
 - [x] HW3: Machine Learning for Classification
-- [ ] HW4: Evaluation Metrics for Classification
+- [X] HW4: Evaluation Metrics for Classification
 - [ ] HW5: Deploying Machine Learning Models
 - [ ] HW6: Decision Trees and Ensemble Learning
 - [ ] HW7: Production-Ready Machine Learning (Bento ML)
